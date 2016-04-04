@@ -3,14 +3,13 @@ import webbrowser
 
 class Movie():
     #Introduction about class Movie
-    """ This class porivdes a way to store movie related information
+    """ This class provides a way to store movie related information and show trailer
     Attributes:
         title (str): This saves title of movie.
         poster_image_url (str): This saves a url linking to poster image of movie.
         trailer_youtube_url (str): This saves a url linking to trailer of movie.
     Method:
         show_trailer(): this helps to show trailer of movie.
-        
     """
 
 
