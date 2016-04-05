@@ -18,7 +18,7 @@ Locating the project file (link can different in your machine):
 ```
 Run project:
 ```
-> python.exe entertainment_center.py
+> python entertainment_center.py
 ```
 And this is [result](https://github.com/caubemuahe/Movie-Trailers-Website/blob/master/image.png).
 
