@@ -2,7 +2,7 @@ import webbrowser
 
 
 class Movie():
-    #Introduction about class Movie
+    # Introduction about class Movie
     """ This class provides a way to store movie related information and show trailer
     Attributes:
         title (str): This saves title of movie.
@@ -20,6 +20,6 @@ class Movie():
         self.trailer_youtube_url =  trailer_youtube
 
 
-    #Open web browser and show trailer.
+    # Open web browser and show trailer.
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
