@@ -12,7 +12,6 @@ Run Project
 
 ###Download project and run it
 You download zip file of the project and extracting it. Run project in commandline. Type step-by-step following the commands.
-
 Locating the project file (link can different in your machine):
 ```
 > cd C:\Movie-Trailers-Website-master
