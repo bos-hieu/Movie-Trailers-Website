@@ -9,7 +9,7 @@ class Movie:
         trailer_youtube_url (str): This saves a url linking to trailer of movie.
     Method:
         __init__()    : This init a instance of class Movie.
-        show_trailer(): this helps to show trailer of movie.
+        show_trailer(): This helps to show trailer of movie.
     """
 
 
