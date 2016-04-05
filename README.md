@@ -21,6 +21,7 @@ Run project:
 ```
 > python.exe entertainment_center.py
 ```
+And this is [result](https://github.com/caubemuahe/Movie-Trailers-Website/blob/master/image.png).
 
 Detail about Project
 ----------------------
