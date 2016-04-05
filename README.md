@@ -13,7 +13,7 @@ Run Project
 ###Download project and run it
 You download zip file of the project and extracting it. Run project in commandline. Type step-by-step following the commands.
 
-Locate the project file (link can different in your machine):
+Locating the project file (link can different in your machine):
 ```
 > cd C:\Movie-Trailers-Website-master
 ```
@@ -30,4 +30,4 @@ Detail about Project
 
 Supported
 -----------
-This project is supported by course [Programming Foundations with Python](https://goo.gl/scwE36) and [Full Stack Web Developer Nanodegree](https://goo.gl/1Uuh8A)
+This project is supported by course [Programming Foundations with Python](https://goo.gl/scwE36) and [Full Stack Web Developer Nanodegree](https://goo.gl/1Uuh8A).
