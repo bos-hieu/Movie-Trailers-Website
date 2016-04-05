@@ -1,7 +1,7 @@
 import webbrowser
 
 
-class Movie():
+class Movie:
     # Introduction about class Movie
     """ This class provides a way to store movie related information and show trailer
     Attributes:
